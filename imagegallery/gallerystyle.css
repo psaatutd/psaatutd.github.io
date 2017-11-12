@@ -1,0 +1,34 @@
+body {
+	padding-top: 70px;
+}
+
+.navbar
+{
+	background: #13162b;
+	opacity: 0.9;
+}
+
+.navbar.navbar-default li a
+{
+	color: white;
+}
+
+.navbar.navbar-default a
+{
+	color: white;
+}
+
+.col-lg-4 {
+	margin-bottom: 20px;
+}
+
+.jumbotron {
+	color: #35445b;
+	text-align: center;
+}
+
+.galleryimage {
+
+	border-radius: 2%;
+	/*border: 1px dotted black;*/
+}
