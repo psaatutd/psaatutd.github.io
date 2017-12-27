@@ -101,10 +101,19 @@ body {
 	height: 100vh;
 	background-color: #3e4b60;
 	color: white;
-	padding-top: 15%;
+	padding-top: 10%;
 	text-align: center;
-	padding-top: 15%;
+	padding-top: 5%;
 	/*padding-top: 0.1% */
+}
+
+#projects p {
+	font-size: 20px;
+}
+
+#projects a {
+	color: #40a837;
+	text-decoration: underline;
 }
 
 .skills {
@@ -192,12 +201,13 @@ body {
    }
 
    .projects {
-   		padding-top: 50%;
+   		padding-top: 10%;
+   		height: 150%;
    }
 
    .skills {
-		 height: 200%;
-   		padding-top: 50%;
+		height: 300%;
+   		padding-top: 10%;
    }
 
    .contactInfo {
